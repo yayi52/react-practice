@@ -7,9 +7,6 @@ export const todoSlice = createSlice({
             id:1,
             text:"副本文字",
         },
-        {
-
-        },
     ],
     reducers:{
         createTodo(state, action){

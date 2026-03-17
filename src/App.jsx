@@ -34,7 +34,7 @@ function App() {
     setValue,
   } = useForm()
   
-
+  //redux 練習
   useEffect(() => {
     (async ()=>{
       dispatch(
